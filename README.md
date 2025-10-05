@@ -1,2 +1,0 @@
-# hakan
-hakan demo
